@@ -1,0 +1,11 @@
+.counter {
+  /* color: white; */
+  font-size: 100px;
+  font-weight: 100;
+  margin: 0 auto;
+}
+
+.counter-body {
+  display: flex;
+  flex-direction: column;
+}
